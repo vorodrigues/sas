@@ -1,0 +1,4 @@
+i,n,1,action,load
+i,n,2,type,astore
+i,n,3,reference,/sasdata/pdm/lstm_002.astore
+i,n,4,,
